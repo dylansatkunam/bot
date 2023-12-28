@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/run-colab",
+      "schedule": "1 2 * * *"
+    }
+  ]
+}
